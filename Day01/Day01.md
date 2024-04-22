@@ -10,7 +10,7 @@ Some people saw this technology and thought that they could do even more. A few 
 
 **Smart Contracts**
 
-A Smart Contract is a self-executing set of instructions that is executed without a third-party intermediary. They come to life on a blockchain, and these smart contracts are really going to be a core thing that we're going to be working with and we're going to be developing. Smart contracts are similar to regular traditional contracts that people make between each other, but instead of writing these contracts down on pen and paper or typing them on the computer, they're entirely written in code. The terms of the agreement are written in code and automatically executed by the decentralized blockchain network. These are the main differentiators between the Ethereum protocol and the Bitcoin protocol.
+A Smart Contract is a self-executing set of instructions that is executed without a third-party intermediary... They come to life on a blockchain, and these smart contracts are really going to be a core thing that we're going to be working with and we're going to be developing. Smart contracts are similar to regular traditional contracts that people make between each other, but instead of writing these contracts down on pen and paper or typing them on the computer, they're entirely written in code. The terms of the agreement are written in code and automatically executed by the decentralized blockchain network. These are the main differentiators between the Ethereum protocol and the Bitcoin protocol.
 
 **Bitcoin Vs Ethereum**
 
