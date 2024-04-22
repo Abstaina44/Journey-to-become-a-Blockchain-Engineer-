@@ -2,7 +2,7 @@
 
 I'm sharing everything I'm learning to become a Blockchain Engineer
 
-![Blockchain](/main.jpg)
+![](../../../Desktop/Blockchainjpeg.jpeg)
 
 | <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p>  |
 | ---------------------------------------------------------------------------------------------------------------------------- |
