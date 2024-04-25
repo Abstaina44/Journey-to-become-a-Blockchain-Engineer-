@@ -8,7 +8,7 @@ This is where brownie is going to come into play.Brownie is currently the most p
 
 The reason that we learned a little bit about web3.py first because brownie heavily relies on web3.py.So let's all again but in brownie and we'll see how much easier it is to actually interact with.
 
-**install Brownie**
+**install Brownie***
 
 Brownie is incredibly powerful and makes our lives fantastically easier.So get ready to learn one of the most powerful tools in the smart contract developing ecosystem.Let's go ahead and open up our terminal and let's get started installing brownie.It's recommended to install brownie via `pipx`.Pipx installs brownie into a virtual environment and makes it available directly from the command line.Once installed you never have to activate a virtual environment prior to using brownie.To install with pipx we can go ahead and run:
 
