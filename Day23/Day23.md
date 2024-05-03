@@ -6,9 +6,9 @@ There's a brownie upgrade mix directly in the brownie mixes organization that if
 
 This will have all the code that we're going to teach you how to use right now. 
 
-**Coding Upgradeable Smart Contracts**
+***Coding Upgradeable Smart Contracts***
 
-But let's go ahead and build this up from scratch ourselves.
+But let's go ahead & build this up from scratch ourselves.
 
 `brownie init`
 
