@@ -1,10 +1,11 @@
 **Solidity Style Guide**
 
+
 We're going to clean up our FundMe contract a little bit to make it look a little bit more professional.While we go through this we're going to learn why some of these conventions exists including learning a little bit of low level solidity.Let's go ahead and tweak a little bit of our contracts here.
 
 Now when I'm talking about tweaking the contract to make it look professional, I'm talking about [solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html).There are some conventions of naming and ordering that we can follow to make our code look a little bit better.
 
-The main thing we wanna look out is the [order of the layout](https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout).
+The main thing we want look out is the... [order of the layout](https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout).
 
 ![layoutOrder](Images/m48.png)
 
