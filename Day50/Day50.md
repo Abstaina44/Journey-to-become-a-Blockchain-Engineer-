@@ -12,7 +12,7 @@ Dynamic SVG NFT
 
 The images are actually surprisingly large and storing them on-chain can actually get pretty expensive.So instead on pngs that we were using, we're going to use svgs.
 
-**What is a SVG?**
+***What is a SVG?***
 
 [SVG](https://www.w3schools.com/graphics/svg_intro.asp) stands for Scalable Vector Graphics and these are much much more minimalistic files that we can go ahead and upload to the blockchain.So that's why we're going to use them because since there's so much more minimalistic, they're alot cheaper to upload.Remember the more data that you upload to the blockchain, the more expensive it is.SVG actually work right in HTML.So if you want to use these for your websites, you can as well.We're going to go one step further, we're going to make it dynamic.We're going to make this actually change based off of some data on-chain.
 
