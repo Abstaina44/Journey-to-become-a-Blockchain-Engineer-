@@ -1,4 +1,5 @@
-## Deploy Script
+## Deploy Script..ls
+
 
 Let's go ahead and create a new deploy script "02-deploy-randomNft.js" and this is going to look really similar once again to our lottery contract that we've already done.We can copy some boilerplate from our basicNft deploy scripts.
 
